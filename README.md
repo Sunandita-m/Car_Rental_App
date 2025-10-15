@@ -6,7 +6,7 @@ It allows users to add cars, rent vehicles, return cars, and view summaries usin
 This project demonstrates Object-Oriented Programming (OOP), file handling, and data persistence in Java.
 
 ## 🧩Features
-[✅ Car Management] (#– Add, view, and manage car details (model, number, and rate).)
+### ✅ Car Management – Add, view, and manage car details (model, number, and rate).)
 (#✅ Customer Handling – Record renter details for future expansion.)
 (#✅ Rental System – Rent and return cars with automatic fare calculation.)
 (#✅ Data Persistence – Save and load car data with file serialization.)
